@@ -1,0 +1,85 @@
+GivenName;Surname;SamAccountName;Userlogon;Password;OU;Description;Groupe;Pays
+Christophe;PELISSIER;Christophe.PELISSIER;Christophe.PELISSIER;Install!;AMIENS; France,Entraineur;Entraineur; France
+René;GIRARD;René.GIRARD;René.GIRARD;Install!;LILLE; France,Entraineur;Entraineur; France
+Kévin;Crepel;Kévin.Crepel;Kévin.Crepel;Install!;AMIENS; France,gardien;gardien; France
+Luca;Veronese;Luca.Veronese;Luca.Veronese;Install!;AMIENS; France,gardien;gardien; France
+Marvin;Baudry;Marvin.Baudry;Marvin.Baudry;Install!;AMIENS; France,défenseur;défenseur; France
+Romain;Beynié;Romain.Beynié;Romain.Beynié;Install!;AMIENS; France,défenseur;défenseur; France
+Alexandre;Carvalho;Alexandre.Carvalho;Alexandre.Carvalho;Install!;AMIENS; France,défenseur;défenseur; France
+Jordan;Lefort;Jordan.Lefort;Jordan.Lefort;Install!;AMIENS; France,défenseur;défenseur; France
+François;Marque;François.Marque;François.Marque;Install!;AMIENS; France,défenseur;défenseur; France
+Jonathan;Ringayen;Jonathan.Ringayen;Jonathan.Ringayen;Install!;AMIENS; France,défenseur;défenseur; France
+Gaël;Vena;Gaël.Vena;Gaël.Vena;Install!;AMIENS; France,défenseur;défenseur; France
+Pierre;Vignaud;Pierre.Vignaud;Pierre.Vignaud;Install!;AMIENS; France,défenseur;défenseur; France
+Nicolas;Burel;Nicolas.Burel;Nicolas.Burel;Install!;AMIENS; France,milieu de terrain;milieu de terrain; France
+Oualid;El-Hajjam;Oualid.El-Hajjam;Oualid.El-Hajjam;Install!;AMIENS; Maroc,milieu de terrain;milieu de terrain; Maroc
+Aurélien;Gazeau;Aurélien.Gazeau;Aurélien.Gazeau;Install!;AMIENS; France,milieu de terrain;milieu de terrain; France
+Laurent;Héloïse;Laurent.Héloïse;Laurent.Héloïse;Install!;AMIENS; France,milieu de terrain;milieu de terrain; France
+Benjamin;Louvet;Benjamin.Louvet;Benjamin.Louvet;Install!;AMIENS; France,milieu de terrain;milieu de terrain; France
+Morgan;Mauquit;Morgan.Mauquit;Morgan.Mauquit;Install!;AMIENS; France,milieu de terrain;milieu de terrain; France
+Oumar;Pouye;Oumar.Pouye;Oumar.Pouye;Install!;AMIENS; Sénégal,milieu de terrain;milieu de terrain; Sénégal
+Cédric;Sanches;Cédric.Sanches;Cédric.Sanches;Install!;AMIENS; France,milieu de terrain;milieu de terrain; France
+Simon;Dia;Simon.Dia;Simon.Dia;Install!;AMIENS; France,attaquant;attaquant; France
+Matt;Moussilou;Matt.Moussilou;Matt.Moussilou;Install!;AMIENS; France,attaquant;attaquant; France
+Jean-Pierre;Nsame;Jean-Pierre.Nsame;Jean-Pierre.Nsame;Install!;AMIENS; France,attaquant;attaquant; France
+Romain;Poyet;Romain.Poyet;Romain.Poyet;Install!;AMIENS; France,attaquant;attaquant; France
+Patrice;GARANDE;Patrice.GARANDE;Patrice.GARANDE;Install!;CAEN; France,Entraineur;Entraineur; France
+Bernard;JOANNIN;Bernard.JOANNIN;Bernard.JOANNIN;Install!;AMIENS; France,Président;Président; France
+Jean;Butez;Jean.Butez;Jean.Butez;Install!;LILLE; France,gardien;gardien; France
+Steeve;Elana;Steeve.Elana;Steeve.Elana;Install!;LILLE; France,gardien;gardien; France
+Vincent;Enyeama;Vincent.Enyeama;Vincent.Enyeama;Install!;LILLE; Nigeria,gardien;gardien; Nigeria
+Marko;Basa;Marko.Basa;Marko.Basa;Install!;LILLE; Montenegro,défenseur;défenseur; Montenegro
+Franck;Béria;Franck.Béria;Franck.Béria;Install!;LILLE; France,défenseur;défenseur; France
+Sébastien;Corchia;Sébastien.Corchia;Sébastien.Corchia;Install!;LILLE; France,défenseur;défenseur; France
+Corentin;Halucha;Corentin.Halucha;Corentin.Halucha;Install!;LILLE; France,défenseur;défenseur; France
+Simon;Kjaer;Simon.Kjaer;Simon.Kjaer;Install!;LILLE; Danemark,défenseur;défenseur; Danemark
+Youssouf;Koné;Youssouf.Koné;Youssouf.Koné;Install!;LILLE; Mali,défenseur;défenseur; Mali
+David;Rozehnal;David.Rozehnal;David.Rozehnal;Install!;LILLE; Rép. Tchèque,défenseur;défenseur; Rép. Tchèque
+Djibril;Sidibe;Djibril.Sidibe;Djibril.Sidibe;Install!;LILLE; France,défenseur;défenseur; France
+Pape;Souaré;Pape.Souaré;Pape.Souaré;Install!;LILLE; Sénégal,défenseur;défenseur; Sénégal
+Jean-Eudes;Aholou;Jean-Eudes.Aholou;Jean-Eudes.Aholou;Install!;LILLE; Côte d'Ivoire,milieu de terrain;milieu de terrain; Côte d'Ivoire
+Florent;Balmont;Florent.Balmont;Florent.Balmont;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Sofiane;Boufal;Sofiane.Boufal;Sofiane.Boufal;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Jonathan;Delaplace;Jonathan.Delaplace;Jonathan.Delaplace;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Idrissa;Gueye;Idrissa.Gueye;Idrissa.Gueye;Install!;LILLE; Sénégal,milieu de terrain;milieu de terrain; Sénégal
+Marcos;Lopes;Marcos.Lopes;Marcos.Lopes;Install!;LILLE; Portugal,milieu de terrain;milieu de terrain; Portugal
+Marvin;Martin;Marvin.Martin;Marvin.Martin;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Rio;Mavuba;Rio.Mavuba;Rio.Mavuba;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Souahilo;Meïté;Souahilo.Meïté;Souahilo.Meïté;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Adama;Soumaoro;Adama.Soumaoro;Adama.Soumaoro;Install!;LILLE; France,milieu de terrain;milieu de terrain; France
+Adama;Traoré;Adama.Traoré;Adama.Traoré;Install!;LILLE; Mali,milieu de terrain;milieu de terrain; Mali
+Emmanuel;Debordeaux;Emmanuel.Debordeaux;Emmanuel.Debordeaux;Install!;LILLE; France,attaquant;attaquant; France
+Abdoulaye;Diaby;Abdoulaye.Diaby;Abdoulaye.Diaby;Install!;LILLE; Mali,attaquant;attaquant; Mali
+Michael;Frey;Michael.Frey;Michael.Frey;Install!;LILLE; Suisse,attaquant;attaquant; Suisse
+Kevin;Koubemba;Kevin.Koubemba;Kevin.Koubemba;Install!;LILLE; France,attaquant;attaquant; France
+Ryan;Mendes Da Graça;Ryan.Mendes Da Graça;Ryan.Mendes Da Graça;Install!;LILLE; Cap vert,attaquant;attaquant; Cap vert
+Divock;Origi;Divock.Origi;Divock.Origi;Install!;LILLE; Belgique,attaquant;attaquant; Belgique
+Sylvio;Rodelin;Sylvio.Rodelin;Sylvio.Rodelin;Install!;LILLE; France,attaquant;attaquant; France
+Nolan;Roux;Nolan.Roux;Nolan.Roux;Install!;LILLE; France,attaquant;attaquant; France
+Michel;SEYDOUX;Michel.SEYDOUX;Michel.SEYDOUX;Install!;LILLE; France,Président;Président; France
+Jean-François;FORTIN;Jean-François.FORTIN;Jean-François.FORTIN;Install!;CAEN; France,Président;Président; France
+Damien;Perquis;Damien.Perquis;Damien.Perquis;Install!;CAEN; France,gardien;gardien; France
+Paul;Reulet;Paul.Reulet;Paul.Reulet;Install!;CAEN; France,gardien;gardien; France
+Rémy;Vercoutre;Rémy.Vercoutre;Rémy.Vercoutre;Install!;CAEN; France,gardien;gardien; France
+Jordan;Adéoti;Jordan.Adéoti;Jordan.Adéoti;Install!;CAEN; Bénin,défenseur;défenseur; Bénin
+Dennis;Appiah;Dennis.Appiah;Dennis.Appiah;Install!;CAEN; France,défenseur;défenseur; France
+Jean;Calvé;Jean.Calvé;Jean.Calvé;Install!;CAEN; France,défenseur;défenseur; France
+Damien;Da Silva;Damien.Da Silva;Damien.Da Silva;Install!;CAEN; France,défenseur;défenseur; France
+Felipe;Saad;Felipe.Saad;Felipe.Saad;Install!;CAEN; Brésil,défenseur;défenseur; Brésil
+Emmanuel;Imorou;Emmanuel.Imorou;Emmanuel.Imorou;Install!;CAEN; Bénin,défenseur;défenseur; Bénin
+Yroundu;Musavu-King;Yroundu.Musavu-King;Yroundu.Musavu-King;Install!;CAEN; Gabon,défenseur;défenseur; Gabon
+Jean-Jacqu;Pierre;Jean-Jacqu.Pierre;Jean-Jacqu.Pierre;Install!;CAEN; Haïti,défenseur;défenseur; Haïti
+Alexandre;Raineau;Alexandre.Raineau;Alexandre.Raineau;Install!;CAEN; France,défenseur;défenseur; France
+Alaeddine;Yahia;Alaeddine.Yahia;Alaeddine.Yahia;Install!;CAEN; Tunisie,défenseur;défenseur; Tunisie
+Hervé;Bazile;Hervé.Bazile;Hervé.Bazile;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+Jonathan;Beaulieu;Jonathan.Beaulieu;Jonathan.Beaulieu;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+Julien;Féret;Julien.Féret;Julien.Féret;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+NGolo;Kanté;NGolo.Kanté;NGolo.Kanté;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+Thomas;Lemar;Thomas.Lemar;Thomas.Lemar;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+José;Saez;José.Saez;José.Saez;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+Nicolas;Seube;Nicolas.Seube;Nicolas.Seube;Install!;CAEN; France,milieu de terrain;milieu de terrain; France
+Mathieu;Duhamel;Mathieu.Duhamel;Mathieu.Duhamel;Install!;CAEN; France,attaquant;attaquant; France
+Bengali;Koïta;Bengali.Koïta;Bengali.Koïta;Install!;CAEN; France,attaquant;attaquant; France
+Lenny;Nangis;Lenny.Nangis;Lenny.Nangis;Install!;CAEN; France,attaquant;attaquant; France
+Sloan;Privat;Sloan.Privat;Sloan.Privat;Install!;CAEN; France,attaquant;attaquant; France
+Florian;Raspentino;Florian.Raspentino;Florian.Raspentino;Install!;CAEN; France,attaquant;attaquant; France
