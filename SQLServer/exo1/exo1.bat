@@ -1,5 +1,5 @@
 # On importe le fichier de creation de la base
-sqlcmd.exe -i ./genese.sql
+sqlcmd.exe -u sa -i ./genese.sql
 # On regarde les différentes tables qui existe afin de savoir ou chercher l'info
 SELECT TABLE_NAME FROM AF.INFORMATION_SCHEMA.Tables WHERE TABLE_TYPE = 'BASE TABLE'
 go
